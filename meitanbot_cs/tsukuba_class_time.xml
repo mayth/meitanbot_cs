@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tsukubaTimeTable>
+  <period1 begin="08:40" end="09:55" />
+  <period2 begin="10:10" end="11:25" />
+  <period3 begin="12:15" end="13:30" />
+  <period4 begin="13:45" end="15:00" />
+  <period5 begin="15:15" end="16:30" />
+  <period6 begin="16:45" end="18:00" />
+</tsukubaTimeTable>

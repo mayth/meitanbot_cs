@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<responses>
+  <rule>
+    <pattern>め[　 ーえぇ]*い[　 ーいぃ]*た[　 ーあぁ]*ん</pattern>
+    <response>めいたんじゃないよ！</response>
+    <response>めいたん違う(´・ω・｀)</response>
+    <response>誰ですかめいたんってー！</response>
+    <response>めいたんなんていなかった。</response>
+    <response>めいたんは非実在系です。</response>
+    <response>誰がめいたんだっ</response>
+    <response>めいたんちゃう</response>
+    <response>めいたんじゃない</response>
+    <response>not</response>
+    <response>noooooooooo</response>
+    <response>のっと・めいたん</response>
+    <response>そこにめいたんがいるじゃろ？　幻覚じゃ。</response>
+    <response>それは非実在系。</response>
+    <response>実在しないよそれ</response>
+    <response>404</response>
+  </rule>
+  <rule>
+    <pattern>C#</pattern>
+    <response>C# と聞いて！</response>
+    <response>C# ですって！？</response>
+    <response>C# の方から来ました</response>
+    <response>（ ﾟдﾟ )彡C#!?</response>
+    <response>（ｷﾗｷﾗ</response>
+    <response>C# いいよ！</response>
+    <response>C# いいよね！</response>
+    <response>C# たんかわいいよC# たん</response>
+  </rule>
+  <rule>
+    <pattern>(おはよ[うー]{0,1}(ございます|ございました){0,1})|(^(むくり|mkr)$)</pattern>
+    <response>おはようっ</response>
+    <response>おはようございました。</response>
+    <response>おはよう、そしておやすみ。</response>
+    <response>おはよう、よく眠れた？</response>
+    <response>おはよう。二度寝しないようにね。</response>
+    <response>ぐっもーにんっ</response>
+    <response>おはよう、良い１日になるといいね。</response>
+    <response>おはよー。</response>
+    <response>おはよーはよー。</response>
+    <response>おはいお</response>
+    <response>あーたーらしーいーあーさがきーたー</response>
+    <response>おはよっ</response>
+    <response>おはよっ、カーテン開けよう！</response>
+    <response>お早う御座います</response>
+    <response>おそよう？</response>
+    <response>おやすみ。</response>
+  </rule>
+  <rule>
+    <pattern>(おやすみ(なさい)ー?)|(寝る)</pattern>
+    <response>おやすみ</response>
+    <response>おやすみなさい</response>
+    <response>おやすみ、いい夢を</response>
+    <response>おやすみなしゃ</response>
+    <response>おやすー</response>
+  </rule>
+  <rule>
+    <pattern>((い|行)ってきまー?すー?)|(いてきまー)|(出発)|(でっぱつ)</pattern>
+    <response>いってらっしゃい！</response>
+    <response>いってらっしゃい、気をつけてねっ</response>
+    <response>いてらー</response>
+    <response>てらー</response>
+  </rule>
+  <rule>
+    <pattern>(ただいま|帰宅)</pattern>
+    <reponse>おかえり！</reponse>
+    <reponse>おかえりっ</reponse>
+    <reponse>おかえりっ、お疲れ様！</reponse>
+    <reponse>おかえりっ、今日はもう寝る？</reponse>
+  </rule>
+  <rule>
+    <pattern>ぬるぽ</pattern>
+    <response>ｶﾞｯ</response>
+  </rule>
+</responses>
